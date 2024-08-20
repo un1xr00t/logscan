@@ -1,6 +1,6 @@
 # LogScan
 
-![image](https://github.com/user-attachments/assets/2311541e-bf8d-425a-8ffa-6c151c6023d7)
+![image](https://github.com/user-attachments/assets/bc6ad64b-0008-40f4-87be-74ab4c0de8d4)
 
 
 LogScan is a powerful Python script designed to analyze log files for specific activities by detecting predefined keywords, assigning weighted importance to critical terms, and generating detailed reports. With the latest version, LogScan is even more customizable and efficient, making it an invaluable tool for system administrators and security professionals.
