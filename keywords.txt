@@ -1,0 +1,74 @@
+# Security-Related Keywords
+breach=10
+compromise=8
+rootkit=9
+exploit=8
+vulnerability=7
+elevated privilege=6
+injection=7
+cross-site scripting=7
+csrf=6
+ransomware=9
+phishing=8
+brute force=9
+denial of service=8
+ddos=8
+tampering=7
+exfiltration=10
+
+# System and Application Errors
+exception=5
+fatal=7
+panic=7
+corrupt=6
+segmentation fault=7
+kernel oops=7
+critical=6
+abort=5
+not fatal=2
+
+# Authentication and Access
+unauthorized access=9
+invalid login=5
+login=4
+auth=4
+session expired=4
+user locked=6
+invalid credentials=5
+token expired=5
+security token=6
+invalid user=5
+access denied=6
+login attempt=5
+ssh failed=7
+sudo failed=7
+authentication failure=9
+
+# Network Security
+unauthorized connection=8
+firewall blocked=7
+port scan=6
+icmp request=5
+suspicious traffic=7
+malformed packet=6
+unauthorized access attempt=9
+open port=5
+ip spoofing=8
+network anomaly=7
+packet loss=5
+
+# General Suspicious Activity
+anomaly=6
+suspicious activity=7
+IP blacklist=7
+User blacklist=7
+whitelist=3
+incident=5
+alert=5
+notification=3
+data leakage=8
+unusual behavior=6
+Failed password for=4
+Invalid user=5
+Password incorrect=4
+
